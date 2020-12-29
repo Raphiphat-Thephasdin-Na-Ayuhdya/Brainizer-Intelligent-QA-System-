@@ -1,0 +1,2 @@
+# Brainizer-Intelligent-QA-System-
+                                                             Graduation Project: QA systems helps on answering questions based on large text knowledge base.                                                              Using Natural Language processing, Machine learning algorithms to extract the most accurate                                                                       answer from the text.               
